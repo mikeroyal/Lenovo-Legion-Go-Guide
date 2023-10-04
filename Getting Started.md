@@ -28,7 +28,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/15ba1a45-29d6-4416-92fa-87ea61dcaa33">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/5ee48d5c-5aab-4b4b-b32a-96aaecfb70e4">
   <br />
 </p>
 
@@ -65,7 +65,6 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [![Lenovo Legion Go - OMG THIS IS SO COOL](https://ytcards.demolab.com/?id=hql6doE-Ccw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go - OMG THIS IS SO COOL")](https://www.youtube.com/watch?v=hql6doE-Ccw)
 [![LEGION GO Pre Order Is Live! Are You Going To Buy It?](https://ytcards.demolab.com/?id=jwdFvHP79NE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "LEGION GO Pre Order Is Live! Are You Going To Buy It?")](https://www.youtube.com/watch?v=jwdFvHP79NE)
 [![Lenovo Legion Go Hands-on Review | ROG Ally Destroyer?](https://ytcards.demolab.com/?id=3gaMZMlkdUI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go Hands-on Review | ROG Ally Destroyer?")](https://www.youtube.com/watch?v=3gaMZMlkdUI)
-[![I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview](https://ytcards.demolab.com/?id=OO_WqQ4ZRTw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "I tested it EARLY... (it's massive) - Lenovo Legion Go Hands-On Preview")](https://www.youtube.com/watch?v=OO_WqQ4ZRTw)
 [![Legion Go, do you even need a gaming PC?](https://ytcards.demolab.com/?id=kuzrLK1HDPU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Legion Go, do you even need a gaming PC?")](https://www.youtube.com/watch?v=kuzrLK1HDPU)
 [![Lenovo Legion Go AMA Exposed: Say Goodbye to Rog Ally](https://ytcards.demolab.com/?id=xfnadAPkuDg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go AMA Exposed: Say Goodbye to Rog Ally")](https://www.youtube.com/watch?v=xfnadAPkuDg)
 [![Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!](https://ytcards.demolab.com/?id=gjMC0tR8i88&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!")](https://www.youtube.com/watch?v=gjMC0tR8i88)
@@ -169,7 +168,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [Xbox Game Pass](https://xbox.com/xbox-game-pass) is a video game subscription services from Microsoft starting at $9.99 and $14.99 for the [Ultimate Pass](https://www.xbox.com/en-US/xbox-game-pass/ultimate). 
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/67c26bd4-f85c-40c6-b375-e222d49e86aa">
+ <img src="https://github.com/mikeroyal/Windows-11-Guide/assets/45159366/10d96a81-e5ba-4dc1-b106-bb2c635268f6">
 </br>
 </p>
 
@@ -646,17 +645,6 @@ If VBS is running, you can get rid of it by uninstalling the **"Virtual Machine"
 ## Reset/Restore Windows 11
 
 [Back to the Top](#table-of-contents)
-
-### Reset Windows 11 with ASUS Cloud Recovery
-
-* 1. Reinstall Windows on your device by using **ASUS Cloud Recovery** in the **Advanced** section of the BIOS menu.
-* 2. **Access BIOS** - Restart your ROG Ally by pressing the power button and hold the **Volume Down button**.
-* 3. In the BIOS press Y and go to **Advanced Setting** and  select **ASUS Cloud Recovery**.
-
-<p align="center">
- <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/bab54540-9472-43bd-8e5d-7f5a543e7ed6">
-  ROG Ally BIOS menu. Image Credit: ASUS
-</p>
 
 ### Reset your Windows 11 system
 
