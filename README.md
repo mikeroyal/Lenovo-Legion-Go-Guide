@@ -82,9 +82,16 @@ Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legio
 * **Software:**	Legion Space Xbox Game Pass Ultimate – Complimentary 3-month membership.
 
 <p align="center">
-  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/ec40744e-bdcf-4879-8902-ad23dd4d41e6">
+  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/12ae654d-44bc-4f0b-a2dc-5a24a0ca48c7">
     <br />
-  Lenovo Legion Go Buttons Overview. Image Credit: Lenovo
+  Lenovo Legion Go Front Buttons Overview. Image Credit: Lenovo
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/6bf4167e-40c9-46cc-b128-1d03f34afb76">
+    <br />
+  Lenovo Legion Go Back Buttons Overview. Image Credit: Lenovo
 </p>
 
 
