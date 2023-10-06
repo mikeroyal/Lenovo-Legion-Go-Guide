@@ -116,21 +116,9 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [![Lenovo Vantage for Gaming](https://ytcards.demolab.com/?id=m4-MgWI0_zs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Vantage for Gaming")](https://www.youtube.com/watch?v=m4-MgWI0_zs)
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/d278c752-d8e0-4a08-aa5d-79debcb76ac9">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/22b999bb-2602-4c4a-83b8-924e2ba52206">
 </br>
-
-</p>
-
-<p align="center">
- <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/f3f63d3e-4984-48e0-b457-76c47144ca9d">
-</br>
-
-</p>
-
-<p align="center">
- <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/f28a1966-c957-4ef8-9b58-d1ed56269921">
-</br>
-
+Lenovo Legion Vantage UI
 </p>
 
 
