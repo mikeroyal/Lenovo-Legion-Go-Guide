@@ -11,7 +11,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 * [YouTube videos on the Lenovo Legion Go](#youtube-videos-on-the-lenovo-legion-go)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Setting up Lenovo Legion Arena (Gaming Hub)](#setting-up-legion-arena)
-* [Setting up Lenovo Vantage](#setting-up-levono-vantage)
+* [Setting up Lenovo Vantage](#setting-up-lenovo-vantage)
 * [Setting up Lenovo Legion Toolkit (LLT)](#setting-up-lenovo-legion-toolkit-llt)
 * [Setting up Playnite launcher](#setting-up-playnite-launcher)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
