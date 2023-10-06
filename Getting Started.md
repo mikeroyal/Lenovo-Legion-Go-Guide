@@ -69,12 +69,16 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [![Unboxed: Lenovo Legion Go](https://ytcards.demolab.com/?id=2RDW9yRRZPo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Unboxed: Lenovo Legion Go")](https://www.youtube.com/watch?v=2RDW9yRRZPo)
 [![Lenovo Legion Go - OMG THIS IS SO COOL](https://ytcards.demolab.com/?id=hql6doE-Ccw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go - OMG THIS IS SO COOL")](https://www.youtube.com/watch?v=hql6doE-Ccw)
 [![LEGION GO Pre Order Is Live! Are You Going To Buy It?](https://ytcards.demolab.com/?id=jwdFvHP79NE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "LEGION GO Pre Order Is Live! Are You Going To Buy It?")](https://www.youtube.com/watch?v=jwdFvHP79NE)
+[![LENOVO LEGION GO Hands On Demo](https://ytcards.demolab.com/?id=mAUPCJ-5CH8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "LENOVO LEGION GO Hands On Demo")](https://www.youtube.com/watch?v=mAUPCJ-5CH8)
+[![Cyberpunk 2077 Lenovo Legion Go Gameplay! 1600x800p Is The Sweet Spot For Legion Go 70+ FPS!](https://ytcards.demolab.com/?id=6r3sK0zjgnA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Cyberpunk 2077 Lenovo Legion Go Gameplay! 1600x800p Is The Sweet Spot For Legion Go 70+ FPS!")](https://www.youtube.com/watch?v=6r3sK0zjgnA)
+[![We bought the Lenovo Legion Go!](https://ytcards.demolab.com/?id=PI6ke6ytmAU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "We bought the Lenovo Legion Go!")](https://www.youtube.com/watch?v=PI6ke6ytmAU)
 [![Lenovo Legion Go Hands-on Review | ROG Ally Destroyer?](https://ytcards.demolab.com/?id=3gaMZMlkdUI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go Hands-on Review | ROG Ally Destroyer?")](https://www.youtube.com/watch?v=3gaMZMlkdUI)
 [![Legion Go, do you even need a gaming PC?](https://ytcards.demolab.com/?id=kuzrLK1HDPU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Legion Go, do you even need a gaming PC?")](https://www.youtube.com/watch?v=kuzrLK1HDPU)
 [![Lenovo Legion Go AMA Exposed: Say Goodbye to Rog Ally](https://ytcards.demolab.com/?id=xfnadAPkuDg&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go AMA Exposed: Say Goodbye to Rog Ally")](https://www.youtube.com/watch?v=xfnadAPkuDg)
 [![Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!](https://ytcards.demolab.com/?id=gjMC0tR8i88&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!")](https://www.youtube.com/watch?v=gjMC0tR8i88)
 [![The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck](https://ytcards.demolab.com/?id=TsIxSmoQaLE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck")](https://www.youtube.com/watch?v=TsIxSmoQaLE)
 [![Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING](https://ytcards.demolab.com/?id=hCsQSKJp4EQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING")](https://www.youtube.com/watch?v=hCsQSKJp4EQ)
+[![Lenovo Vantage for Gaming](https://ytcards.demolab.com/?id=m4-MgWI0_zs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Vantage for Gaming")](https://www.youtube.com/watch?v=m4-MgWI0_zs)
 
 ## Setting up Legion Arena 
 
@@ -108,6 +112,8 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [Back to the Top](#table-of-contents)
 
 [Lenovo Vantage](https://www.lenovo.com/software/vantage) is an app that simplifies the PC experience, personalizes settings, and automates updates. It also offers features such as battery protection, antivirus, Wi-Fi security, and gaming enhancement. [Lenovo Vantage in Microsoft Store](https://apps.microsoft.com/store/detail/lenovo-vantage/9WZDNCRFJ4MV).
+
+[![Lenovo Vantage for Gaming](https://ytcards.demolab.com/?id=m4-MgWI0_zs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Vantage for Gaming")](https://www.youtube.com/watch?v=m4-MgWI0_zs)
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/d278c752-d8e0-4a08-aa5d-79debcb76ac9">
