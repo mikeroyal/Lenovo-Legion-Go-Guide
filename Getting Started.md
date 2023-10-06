@@ -38,7 +38,11 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 
 [Back to the Top](#table-of-contents)
 
+ * [Preorder your Lenovo Legion Go on the Lenovo website](https://www.lenovo.com/p/handheld/legion-go/len106g0001)
+   
  * [Lenovo Legion Go 8APU1 - PSREF (Product Specifications Reference) PDF](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
+    
+ * [Lenovo Legion (@LenovoLegion) | Twitter AKA X](https://twitter.com/LenovoLegion) 
 
  * [Lenovo Legion Reddit](https://www.reddit.com/r/LenovoLegion/)
  
@@ -55,7 +59,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
  [Back to the Top](#table-of-contents)
  
  * [Unofficial Legion Go Reddit](https://www.reddit.com/r/LegionGo/)
- 
+ * [Lenovo Legion Go (@LenovoLegionGo) | Twitter AKA X](https://twitter.com/LenovoLegionGo) 
 
 ## YouTube videos on the Lenovo Legion Go
 
