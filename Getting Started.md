@@ -10,6 +10,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 * [Lenovo Legion Go Community Resources](#lenovo-legion-go-community-resources)
 * [YouTube videos on the Lenovo Legion Go](#youtube-videos-on-the-lenovo-legion-go)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
+* [Setting up Lenovo Legion Arena (Gaming Hub)](#setting-up-legion-arena)
 * [Setting up Lenovo Vantage](#setting-up-levono-vantage)
 * [Setting up Lenovo Legion Toolkit (LLT)](#setting-up-lenovo-legion-toolkit-llt)
 * [Setting up Playnite launcher](#setting-up-playnite-launcher)
@@ -70,6 +71,33 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [![Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!](https://ytcards.demolab.com/?id=gjMC0tR8i88&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Legion Go Hands-on: Windows-powered Nintendo Switch?!")](https://www.youtube.com/watch?v=gjMC0tR8i88)
 [![The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck](https://ytcards.demolab.com/?id=TsIxSmoQaLE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck")](https://www.youtube.com/watch?v=TsIxSmoQaLE)
 [![Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING](https://ytcards.demolab.com/?id=hCsQSKJp4EQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING")](https://www.youtube.com/watch?v=hCsQSKJp4EQ)
+
+## Setting up Legion Arena 
+
+[Back to the Top](#table-of-contents)
+
+[Legion Arena](https://www.lenovo.com/software/gaming/legionarena/) is an application that syncs with popular stores and game platforms to show you every game you have access to, not just what’s installed on your device. No more switching between apps to find what you want to play. [Get Legion Arena form the Microsoft Store](https://apps.microsoft.com/detail/legion-arena-by-lenovo/XPFMJFJG7B2GB0).
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/f94343af-4c5f-44d8-9476-58963411644f">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/c30c0ed9-2b67-4723-b69c-7d9e95547d63">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/3b528856-d637-4816-b9b8-0db55053bf9c">
+</br>
+</p>
+
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/7b9d1aa3-b74e-4d05-8fe0-d190fe9993ce">
+</br>
+</p>
 
 ## Setting up Lenovo Vantage
 
