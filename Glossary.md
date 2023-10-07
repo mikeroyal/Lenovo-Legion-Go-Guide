@@ -12,11 +12,11 @@ A
 
 [AMD Radeon Super Resolution (RSR)](https://www.amd.com/technologies/radeon-super-resolution) is a feature that works at the graphics-drivers level rather than at the game-engine level. Therefore, it has no control over game settings, and doesn't require any developer support. It's not meant to replace **FidelityFX Super Resolution (FSR)**, but rather provide a way for gamers to improve the performance of any game at minimal image quality loss.
 
+[AMD Radeon™ Image Sharpening](https://www.amd.com/technologies/radeon-image-sharpening) is a image-sharpening technology that employs a contrast adaptive sharpening algorithm using AI that restores clarity to in-game visuals that may have been softened by other effects, bringing out better details of objects without creating some of the visual artifacts seen in other sharpening effects.
+
+[AMD HYPR-RX](https://www.amd.com/technologies/software) is a driver-level switch you can flip to enable Radeon Boost, Radeon Anti-Lag, and Radeon Super Resolution features all at once in all games that support them.
+
 [Amazon Luna](https://www.amazon.com/luna/landing-page) is Amazon's Cloud Gaming Service. Amazon Luna is Compatible/Supported on a vartiey of [Devices and Browsers](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUFHUSX8X324T4XE).
-
-[Armoury Crate](https://rog.asus.com/armoury-crate/) is Asus software that helps you manage every aspect of your device from the initial setup to RGB lighting. It also helps with getting the latest updates, drivers, manuals and offers, and connect instantly with your gaming peers.
-
-**ASUS Cloud Recovery** is a built-in Asus ROG tool that makes it super easy to reinstall Windows 11 and Armoury Crate on your ROG Ally device.
 
 
 B
