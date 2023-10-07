@@ -1,4 +1,4 @@
-**A list of useful terms for Windows 11 and the ROG Ally.**
+**A list of useful terms for Windows 11 and the Legion Go.**
 
 [Back to Home](/README.md#table-of-contents)
 
