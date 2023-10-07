@@ -57,7 +57,8 @@ Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legio
 * **Memory:** 16GB 7500Mhz LPDDR5X on board.
 * **Storage:** 256GB / 512GB / 1TB PCIe 4.0 NVMe M.2 2242.
 * **Operating System:** Windows 11 Home.
-* **Battery:** 2-cell 49.2WHr Super Rapid Charge(reach up to 70% capacity in just half an hour.)  and **Controller battery capacity:** 900mah.
+* **Battery:** 2-cell 49.2WHr Super Rapid Charge (reach up to 70% capacity in just half an hour.)
+* **Controller battery capacity:** 900mah.
 * **Power Adapter:** USB Type-C, 65W AC adapter Output: 20V DC, 3.25A, 65W Input: 100~240V AC 50/60 universal
 * **Ports:** 
       - Top 3.5mm audio combo jack
