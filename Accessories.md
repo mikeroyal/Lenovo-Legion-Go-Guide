@@ -3,7 +3,8 @@
 [Back to Home](/README.md#table-of-contents)
 
 ## Table of Contents
-
+- [Lenovo Legion Glasses](#lenovo-legion-glasses)
+- [eGPUs](#egpus)
 - [Docks](#docks)
   - [Docking Stations](#docking-stations)
   - [USB-C Hubs](#usb-c-hubs) 
@@ -31,6 +32,65 @@
 - [Power](#power)
   - [Chargers](#chargers)
 
+
+## Legion Glasses 
+
+[Back to Top](#lenovo-legion-go-accessories)
+ 
+[Legion Glasses](https://www.lenovo.com/p/accessories-and-software/vr-headsets/vr-headsets_smart-glasses/gy21m72722) is a pair of VR (Virtual Reality)/AR (Augmented Reality) glasses, that offer a smarter big screen solution for any consumer who seeks a portable and private display for video gaming and video consumption.
+
+**Specs:**
+
+* **Weight:** 96g
+* **OS Requirements:** OS Independent.
+* **Cable Length:** 1.2m (3.93ft).
+* **Connection Type:**  USB-C 3.2 with DP1.2
+* **Display:** Micro OLED.
+* **Resolution:** 1920*1080 per eye.
+* **Speakers:**  Two High-fidelity built-in speakers.
+* **Warranty Period:** 2 years for EMEA and 1 year for all other countries.
+    
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/aacd7d8c-2d4c-4164-ae1f-3f75300a90fe">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/765760b2-db74-43f1-a310-f9670f72bc49">
+</br>
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/964fd0a7-765f-4c83-b01f-abe0dfeb0c69">
+</br>
+</p>
+
+## eGPU
+[Back to Top](#lenovo-legion-go-accessories)
+
+[Lenovo Legion BoostStation eGPU](https://www.lenovo.com/gb/en/p/laptops/legion-laptops/legion-7-series/lenovo-legion-gpu-dock/88gmy701467)
+
+<p align="center">
+ <img src="">
+</br>
+Lenovo Legion BoostStation
+</p>
+
+[VisionTek Thunderbolt 3 Mini eGFX - external GPU enclosure](https://visiontek.com/products/visiontek-thunderbolt-3-mini-egfx)
+
+<p align="center">
+ <img src="">
+</br>
+VisionTek Thunderbolt 3 Mini eGFX 
+</p>
+
+[Razer Core X](https://www.razer.com/gaming-egpus/razer-core-x)
+
+<p align="center">
+ <img src="">
+</br>
+Razer Core X
+</p>
 
 ## Docks
 
