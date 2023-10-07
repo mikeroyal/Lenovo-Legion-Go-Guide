@@ -183,6 +183,22 @@ Razer Core X
  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/52e9d1c9-cd26-4aa3-9b8a-db334fc16727">
 </p>
 
+[HOXSURY Sling Backpack USB Shoulder Bag](https://www.amazon.com/HOXSURY-Backpack-Anti-Theft-Waterproof-Shoulder/dp/B0BN5QCQT3/)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/feabb6a1-779e-46ce-b307-e771b52e55e2">
+</br>
+HOXSURY Sling Backpack
+</p>
+
+[JSAUX Shoulder Bag for Handheld](https://jsaux.com/products/shoulder-bag-for-steam-deck-bg0105)
+
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/2ba753f7-19c6-49f3-87f6-140b6a93dcf4">
+</br>
+JSAUX Shoulder Bag for Handheld
+</p>
+
 
 ### Stands
 
@@ -229,7 +245,7 @@ Razer Core X
 
 [Back to Top](#lenovo-legion-go-accessories)
 
-[Thumb Grip Set for Steam Deck/ROG Ally](https://skullnco.com/collections/thumb-grip/products/thumb-grip-set-for-steam-deck)
+[Thumb Grip Set](https://skullnco.com/collections/thumb-grip/products/thumb-grip-set-for-steam-deck)
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Asus-ROG-Ally-Guide/assets/45159366/c488b25b-637f-4151-9ad8-5520b51e587e">
@@ -240,7 +256,13 @@ Razer Core X
 
 [Back to Top](#lenovo-legion-go-accessories)
 
+Skins will most likely start being available in Novemeber 2023 when the Lenovo Legion Go will be shipping/arrving to most people. I recommend keeping an eye on these websites below for the best skins.
 
+ * [dbrand](https://dbrand.com/)
+ * [M2 Skins](https://m2skins.com/)
+ * [SopiGuard](https://sopiguard.com/)
+ * [KO Custom Creations skins](https://kocustomcreations.com/)
+ * [Slickwraps skins](https://www.slickwraps.com/)
 
 ## Animated Wallpapers
 
