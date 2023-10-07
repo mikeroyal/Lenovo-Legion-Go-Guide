@@ -3,7 +3,7 @@
 [Back to Home](/README.md#table-of-contents)
 
 ## Table of Contents
-- [Lenovo Legion Glasses](#lenovo-legion-glasses)
+- [Lenovo Legion Glasses](#legion-glasses)
 - [eGPUs](#egpus)
 - [Docks](#docks)
   - [Docking Stations](#docking-stations)
@@ -65,13 +65,13 @@
 </br>
 </p>
 
-## eGPU
+## eGPUs
 [Back to Top](#lenovo-legion-go-accessories)
 
 [Lenovo Legion BoostStation eGPU](https://www.lenovo.com/gb/en/p/laptops/legion-laptops/legion-7-series/lenovo-legion-gpu-dock/88gmy701467)
 
 <p align="center">
- <img src="">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/2121127c-8b68-4bf2-8b4d-a08df2d816e4">
 </br>
 Lenovo Legion BoostStation
 </p>
@@ -79,7 +79,7 @@ Lenovo Legion BoostStation
 [VisionTek Thunderbolt 3 Mini eGFX - external GPU enclosure](https://visiontek.com/products/visiontek-thunderbolt-3-mini-egfx)
 
 <p align="center">
- <img src="">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/58050119-98cc-4cd3-b16a-872d8631bef8">
 </br>
 VisionTek Thunderbolt 3 Mini eGFX 
 </p>
@@ -87,7 +87,7 @@ VisionTek Thunderbolt 3 Mini eGFX
 [Razer Core X](https://www.razer.com/gaming-egpus/razer-core-x)
 
 <p align="center">
- <img src="">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/4c054112-6034-482f-9c9a-0622be5962bf">
 </br>
 Razer Core X
 </p>
