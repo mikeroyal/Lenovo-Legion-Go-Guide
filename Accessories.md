@@ -11,7 +11,6 @@
   - [USB-C Adapters](#usb-c-adapters)
   - [USB-C Fast Charging Cables (from 3.3-10ft)](#usb-c-fast-charging-cables)
 - [Cases](#cases)
-- [Port Guard](#port-guard)
 - [Stands/Holders](#stands)
 - [Thumbstick Grips](#thumbstick-grips)
 - [Skins](#skins)
@@ -169,7 +168,7 @@ Razer Core X
  * [USB C to USB C Cable, 3.2 Gen 2 USB-C Cable 10ft - 4K UHD 20Gbps USB C Cable 100W PD Fast Charging Cable](https://www.amazon.com/USB-Cable-3-1-USB-C-10ft/dp/B089FV33QX/)
 
  * [AINOPE 100W USB C to USB C Cable 10ft, USB C Charger Cable](https://www.amazon.com/AINOPE-Charging-Braided-compatible-MacBook/dp/B094YDZQ1C/)
- * 
+
 
 ## Cases
 
