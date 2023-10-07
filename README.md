@@ -59,13 +59,18 @@ Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legio
 * **Operating System:** Windows 11 Home.
 * **Battery:** 2-cell 49.2WHr Super Rapid Charge (reach up to 70% capacity in just half an hour.)
 * **Controller battery capacity:** 900mah.
-* **Power Adapter:** USB Type-C, 65W AC adapter Output: 20V DC, 3.25A, 65W Input: 100~240V AC 50/60 universal
-* **Ports:** 
-      - Top 3.5mm audio combo jack
-         * 1 x USB Type-C (USB 4.0, DisplayPort™ 1.4, Power Delivery 3.0)
-         * 1 x microSD card reader.
-      - Bottom
-         * 1x USB Type-C (USB 4.0, DisplayPort 1.4, Power Delivery 3.0).
+* **Power Adapter:** USB Type-C, 65W AC adapter with **Output:** 20V DC, 3.25A, 65W and **Input:** 100~240V AC 50/60 universal.
+* **Ports:**
+  
+  - Top 3.5mm audio combo jack
+  
+    * 1 x USB Type-C (USB 4.0, DisplayPort™ 1.4, Power Delivery 3.0)
+    * 1 x microSD card reader.
+  
+  - Bottom
+  
+    * 1x USB Type-C (USB 4.0, DisplayPort 1.4, Power Delivery 3.0).
+  
 * **Control and Input:**     
     - Gamepad Controls.
     -  Legion L/R.
