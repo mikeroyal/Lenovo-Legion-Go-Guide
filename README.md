@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/204952f8-e90c-447e-835c-5351d020d131">
+  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/e6e67d3c-be8d-40cf-8f10-6de84f84b3e7">
     <br />
       Lenovo Legion Go Guide
 </h1>	
@@ -31,8 +31,11 @@ A Community Guide to getting all your Accessories, Games, Emulators, and Gaming 
 ## Lenovo Legion Go
 
 [Back to the Top](#table-of-contents)
-
+ 
 [Lenovo Legion Go](https://www.lenovo.com/legiongo/) is a handheld gaming computer developed by Lenovo in cooperation with [Advanced Micro Devices (AMD)](https://www.amd.com/). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. **Available October 31, 2023 starting at $699 USD.**
+
+ * [Preorder your Lenovo Legion Go on the Lenovo website](https://www.lenovo.com/p/handheld/legion-go/len106g0001)
+ * [Preorder your Lenovo Legion Go on the BestBuy website](https://www.bestbuy.com/site/lenovo-legion-go-8-8-144hz-wqxga-gaming-handheld-amd-ryzen-z1-extreme-16gb-with-512-gb-ssd-shadow-black/6559605.p?skuId=6559605)
 
 <p align="center">
   <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/ed611de4-9cd0-4db1-aae8-3c18fcd75589">
@@ -47,18 +50,21 @@ Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legio
 * **Base Module w/ Controllers Attached: (mm):** 299mm x 131mm x 41mm (inches): 11.8” x 5.15” x 1.61”.
 * **Weight:** Controllers Detached: 640g (1.41lbs) or  Controllers Attached: 854g (1.88lbs).
 * **Color:** Shadow Black
-* **Display:** 8.8” QHD+ (2560 x 1600) IPS; 16:10 10-point Touch (144Hz / 97% DCI-P3 / 500nits / 83%AAR).
+* **Display:** 8.8” QHD+ (2560 x 1600) IPS; 16:10 10-point Touch (144Hz / 97% DCI-P3 / 500nits / 83%AAR). It can scale down to 800p and 60 Hz to preserve battery life and maximize performance.
 * **Touchpad:** Multi-finger.
 * **Processor:** Up to AMD Ryzen Z1 Extreme with AMD RDNA Graphics.
 * **Graphics:** RDNA 3 with 12 GPU Compute Units (8.6 Teraflops of performance).
 * **Memory:** 16GB 7500Mhz LPDDR5X on board.
 * **Storage:** 256GB / 512GB / 1TB PCIe 4.0 NVMe M.2 2242.
 * **Operating System:** Windows 11 Home.
-* **Battery:** 2-cell 49.2WHr Super Rapid Charge2 Controller battery capacity: 900mah2
+* **Battery:** 2-cell 49.2WHr Super Rapid Charge(reach up to 70% capacity in just half an hour.)  and **Controller battery capacity:** 900mah.
 * **Power Adapter:** USB Type-C, 65W AC adapter Output: 20V DC, 3.25A, 65W Input: 100~240V AC 50/60 universal
 * **Ports:** 
-      - Top 3.5mm audio combo jack1 x USB Type-C (USB 4.0, DisplayPort™ 1.4, Power Delivery 3.0)1 x microSD card reader.
-      - Bottom 1x * **USB * **Type-C (USB 4.0, DisplayPort 1.4, Power Delivery 3.0).
+      - Top 3.5mm audio combo jack
+         * 1 x USB Type-C (USB 4.0, DisplayPort™ 1.4, Power Delivery 3.0)
+         * 1 x microSD card reader.
+      - Bottom
+         * 1x USB Type-C (USB 4.0, DisplayPort 1.4, Power Delivery 3.0).
 * **Control and Input:**     
     - Gamepad Controls.
     -  Legion L/R.
@@ -79,12 +85,18 @@ Lenovo Legion Go device. Source: [Lenovo Legion Go](https://www.lenovo.com/legio
     - Gyro: 6-Axis IMU.
 * **Audio:** 2 x 2W Speakers Dual-array near-field microphone.
 * **Connectivity:** 2 x 2 Wi-Fi 6E (802.11 ax) and  Bluetooth® 5.2.
-* **Software:**	Legion Space Xbox Game Pass Ultimate – Complimentary 3-month membership.
+* **Software:**	Legion Space  and Xbox Game Pass Ultimate – Complimentary 3-month membership.
 
 <p align="center">
   <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/12ae654d-44bc-4f0b-a2dc-5a24a0ca48c7">
     <br />
   Lenovo Legion Go Front Buttons Overview. Image Credit: Lenovo
+</p>
+
+<p align="center">
+  <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/0193aab2-dd1f-4c5f-8e93-73f30d0b0f6a">
+    <br />
+  Lenovo Legion Go Controllers Buttons Overview. Image Credit: Lenovo
 </p>
 
 
