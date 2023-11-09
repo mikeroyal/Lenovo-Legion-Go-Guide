@@ -298,7 +298,7 @@ Lenovo Legion Vantage UI
  * PlateUp! (Console)
  * Thirsty Suitors (Cloud, Console, and PC) 
 
-** November 6**
+**November 6**
 
  * Football Manager 2024 (PC)
  * Football Manager 2024 Console (Cloud, Console, and PC) 
