@@ -263,6 +263,17 @@ Skins will most likely start being available in Novemeber 2023 when the Lenovo L
  * [KO Custom Creations skins](https://kocustomcreations.com/)
  * [Slickwraps skins](https://www.slickwraps.com/)
 
+[Legion Go Skins & Wraps | dbrand](https://dbrand.com/shop/skins/lenovo-legion-go-skins)
+
+[![How to Apply a dbrand Legion Go Skin](https://ytcards.demolab.com/?id=dVIE3272gXE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to Apply a dbrand Legion Go Skin")](https://www.youtube.com/watch?v=dVIE3272gXE)
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/ab7fce13-09a1-4f01-b1ce-1b74aeb1ab69">
+</br>
+Legion Go Skins & Wraps
+</p>
+
+
 ## Animated Wallpapers
 
 [Back to Top](#lenovo-legion-go-accessories)
