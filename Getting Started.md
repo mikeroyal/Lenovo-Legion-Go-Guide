@@ -10,6 +10,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 * [Lenovo Legion Go Community Resources](#lenovo-legion-go-community-resources)
 * [YouTube videos on the Lenovo Legion Go](#youtube-videos-on-the-lenovo-legion-go)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
+* [Access BIOS on Legion Go](#access-bios)
 * [Setting up Lenovo Legion Arena (Gaming Hub)](#setting-up-legion-arena)
 * [Setting up Lenovo Vantage](#setting-up-lenovo-vantage)
 * [Setting up Lenovo Legion Toolkit (LLT)](#setting-up-lenovo-legion-toolkit-llt)
@@ -39,6 +40,10 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [Back to the Top](#table-of-contents)
 
  * [Preorder your Lenovo Legion Go on the Lenovo website](https://www.lenovo.com/p/handheld/legion-go/len106g0001)
+
+ *  [Lenovo Legion Go 8APU1 - Guides & Manuals](https://pcsupport.lenovo.com/products/laptops-and-netbooks/legion-series/legion-go-8apu1/document-userguide)
+ *  
+ * [Lenovo Legion Go 8APU1 Drivers & Software](https://pcsupport.lenovo.com/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list/)
    
  * [Lenovo Legion Go 8APU1 - PSREF (Product Specifications Reference) PDF](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
     
