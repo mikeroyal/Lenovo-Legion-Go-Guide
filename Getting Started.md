@@ -13,6 +13,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 * [Setting up Lenovo Legion Arena (Gaming Hub)](#setting-up-legion-arena)
 * [Setting up Lenovo Vantage](#setting-up-lenovo-vantage)
 * [Setting up Lenovo Legion Toolkit (LLT)](#setting-up-lenovo-legion-toolkit-llt)
+* [Lenovo Legion Go UI Overview](#lenovo-legion-go-ui-overview)
 * [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Setting up Playnite launcher](#setting-up-playnite-launcher)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
@@ -168,6 +169,18 @@ Lenovo Legion Vantage UI
 
 [Back to the Top](#table-of-contents)
 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/8cb4247f-8ca2-461c-9dcc-99c9ecba34c4">
+  <br />
+ Legion Space UI (User Interafce)
+</p>
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/a5011a81-a3c6-4d5a-abfe-e337e829da93">
+  <br />
+ Legion Go Button Shortcuts UI (User Interafce) 
+</p>
 
 
 ## Getting Things Setup & Updates
