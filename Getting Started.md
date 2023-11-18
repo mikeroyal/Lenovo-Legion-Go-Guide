@@ -65,7 +65,8 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
  
  * [Unofficial Legion Go Reddit](https://www.reddit.com/r/LegionGo/)
  * [Unofficial Legion Go Discord](https://discord.gg/WuzSd7Cat7)
- * [Lenovo Legion Go (@LenovoLegionGo) | Twitter AKA X](https://twitter.com/LenovoLegionGo) 
+ * [Lenovo Legion Go (@LenovoLegionGo) | Twitter AKA X](https://twitter.com/LenovoLegionGo)
+ * [Legion Go Life - The Latest Lenovo Legion Go News and Game Settings](https://legiongolife.com/)
 
 ## YouTube videos on the Lenovo Legion Go
 
