@@ -468,6 +468,14 @@ Legion Go Skins & Wraps
 
 [Back to Top](#lenovo-legion-go-accessories)
 
+[Legion Go Tempered Glass Screen Protector | dbrand](https://dbrand.com/shop/glass/lenovo-legion-go-tempered-glass-screen-protectors)
+ 
+ <p align="center">
+ <img src="https://github.com/mikeroyal/Lenovo-Legion-Go-Guide/assets/45159366/9ecfc388-6259-4975-a94a-afaa36cf3d8c">
+</br>
+Legion Go Tempered Glass Screen Protector
+</p>
+
 [KEANBOLL 3-Pack Matte Screen Protector for 2022 Lenovo Legion 8.8 inch Tablet, Anti Glare Anti Fingerprint Filter](https://www.amazon.com/KEANBOLL-Lenovo-Legion-Y700-Tablet/dp/B0BMZZTXLL)
 
 <p align="center">
