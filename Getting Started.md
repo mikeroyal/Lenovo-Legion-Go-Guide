@@ -9,11 +9,11 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 * [Official Lenovo Legion Go Resources](#official-lenovo-legion-go-resources)
 * [Lenovo Legion Go Community Resources](#lenovo-legion-go-community-resources)
 * [YouTube videos on the Lenovo Legion Go](#youtube-videos-on-the-lenovo-legion-go)
-* [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Access BIOS on Legion Go](#access-bios)
 * [Setting up Lenovo Legion Arena (Gaming Hub)](#setting-up-legion-arena)
 * [Setting up Lenovo Vantage](#setting-up-lenovo-vantage)
 * [Setting up Lenovo Legion Toolkit (LLT)](#setting-up-lenovo-legion-toolkit-llt)
+* [Getting Things Setup & Updates](#getting-things-setup--updates)
 * [Setting up Playnite launcher](#setting-up-playnite-launcher)
 * [Gaming on Xbox Game Pass](#gaming-on-xbox-game-pass)
 * [Setting up Universal Tuning Utility Handheld](#setting-up-universal-tuning-utility-handheld)
@@ -42,7 +42,7 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
  * [Preorder your Lenovo Legion Go on the Lenovo website](https://www.lenovo.com/p/handheld/legion-go/len106g0001)
 
  *  [Lenovo Legion Go 8APU1 - Guides & Manuals](https://pcsupport.lenovo.com/products/laptops-and-netbooks/legion-series/legion-go-8apu1/document-userguide)
- *  
+   
  * [Lenovo Legion Go 8APU1 Drivers & Software](https://pcsupport.lenovo.com/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads/driver-list/)
    
  * [Lenovo Legion Go 8APU1 - PSREF (Product Specifications Reference) PDF](https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8APU1/Legion_Go_8APU1_Spec.pdf)
@@ -85,6 +85,20 @@ If you just got your Lenovo Legion Go, or have had it for a while and want to le
 [![The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck](https://ytcards.demolab.com/?id=TsIxSmoQaLE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "The Legion Go is the Perfect Handheld? - Should you buy one, or buy a Rog Ally/Steam Deck")](https://www.youtube.com/watch?v=TsIxSmoQaLE)
 [![Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING](https://ytcards.demolab.com/?id=hCsQSKJp4EQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Comparison | Asus RoG Ally Extreme Z1 vs Lenovo Legion GO | ROG ALLY GAMING")](https://www.youtube.com/watch?v=hCsQSKJp4EQ)
 [![Lenovo Vantage for Gaming](https://ytcards.demolab.com/?id=m4-MgWI0_zs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Lenovo Vantage for Gaming")](https://www.youtube.com/watch?v=m4-MgWI0_zs)
+
+## Access BIOS 
+
+[Back to the Top](#table-of-contents)
+
+**Option 1**
+
+ * Hold down the **volume up button** and press the **power button** when in the off state.
+
+**Option 2**
+
+ * On Windows 11 desktop go to **Update and security settings** in the section **"Recovery"** by pressing the button **"Restart now"**. You will have access to the blue screen **“Choose an option”**. You have to press the button "Troubleshooting". This will redirect you to the screen " Problem resolution ", within which it will be necessary press “Advanced options”. Finally, click the button "Change UEFI firmware settings" And click on the button " To restart ". 
+
+
 
 ## Setting up Legion Arena 
 
